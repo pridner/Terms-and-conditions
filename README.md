@@ -14,7 +14,6 @@ You will get more than one message from us unless you opt-out, and while messagi
   Consent:By providing your mobile number and opting in, you consent to receive conversational messages from PMM Restoration, LLC .
   Opt out:Reply STOP to unsubscribe at any time.
   Help: Reply HELP for assistance.
-  Privacy policy:https://github.com/pridner/messaging-privacy-policy/blob/main/README.md
 
 Message and data rates may apply.
 
@@ -26,7 +25,6 @@ Your information will be handled in accordance with our Privacy Policy https://g
 
 Cancellation/Opt-Out Instructions 
 You can opt out of receiving SMS messages at any time by replying STOP to any message we send you. After you opt out of text messaging, you will receive one additional message confirming your request has been processed.  
-By providing your mobile number, you consent to receive conversational messages from PMM Restoration, LLC related to your inquiries and ongoing communications.
 
 For more information, please review our privacy policy at https://github.com/pridner/messaging-privacy-policy
 
