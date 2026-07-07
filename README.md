@@ -1,7 +1,7 @@
 TERMS AND CONDITIONS 
 
 Effective Date: 07/07/2026 
-By opting in to receive SMS messages from PMM Restoration, LLC  (“we,” “us,” “our”), you agree to these Terms and Conditions (Terms). 
+By opting in to receive conversational SMS messages from PMM Restoration, LLC  (“we,” “us,” “our”), you agree to these Terms and Conditions (Terms). 
 
 SMS Messaging Service 
 By providing my phone number, I consent to receive SMS text conversational messages from PMM Restoration, LLC  for appointment reminders, marketing messages, and general two-way communication related to PMM Restoration, LLC. Message and Data Rates may apply. 
