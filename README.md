@@ -30,7 +30,7 @@ For more information, please review our privacy policy at https://github.com/pri
 
 Help/Customer Support 
 Text the word HELP for support. You may also contact us directly at office@servpro11245.com or 931-723-8088.
-By providing your mobile number to SERVPRO of Coffee, Franklin, Warren, you agree to receive conversational messages from SERVPRO of Coffee, Franklin, Warren.
+By providing your mobile number to PMM Restoration,LLC, you agree to receive conversational messages from PMM Restoration, LLC.
 
 Message purpose:Conversational messages related to your inquiries, appointments, services, or account.
   Message frequency:Message frequency may vary. On average, 1-2 messages per month.
