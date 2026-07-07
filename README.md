@@ -17,8 +17,7 @@ Your information will be handled in accordance with our Privacy Policy https://g
 
 Cancellation/Opt-Out Instructions 
 You can opt out of receiving SMS messages at any time by replying STOP to any message we send you. After you opt out of text messaging, you will receive one additional message confirming your request has been processed.  
-By providing your mobile number, you consent to receive conversational messages from <strong>SERVPRO of Coffee, Franklin, Warren</strong> related to your inquiries and ongoing communications.
-
+By providing your mobile number, you consent to receive conversational messages from PMM Restoration, LLC related to your inquiries and ongoing communications.
 By providing your mobile number and opting in, you confirm that you are authorized to receive SMS messages from PMM Restoration, LLC, at that number.</p>
 
 For more information, please review our privacy policy at https://github.com/pridner/messaging-privacy-policy
