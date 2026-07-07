@@ -17,6 +17,16 @@ Your information will be handled in accordance with our Privacy Policy https://g
 
 Cancellation/Opt-Out Instructions 
 You can opt out of receiving SMS messages at any time by replying STOP to any message we send you. After you opt out of text messaging, you will receive one additional message confirming your request has been processed.  
+<p>By providing your mobile number, you consent to receive conversational messages from <strong>SERVPRO of Coffee, Franklin, Warren</strong> related to your inquiries and ongoing communications.</p>
+
+Message types: conversational messages
+  Message frequency may vary. On average, 1-2 messages per month.
+  Message and data rates may apply.
+  Consent is not a condition of purchase.
+  Reply STOP to opt out at any time.
+  Reply HELP for assistance.
+
+For more information, please review our privacy policy at https://github.com/pridner/messaging-privacy-policy
 
 Help/Customer Support 
 Text the word HELP for support. You may also contact us directly at office@servpro11245.com or 931-723-8088.
