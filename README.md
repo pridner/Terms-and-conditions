@@ -30,6 +30,16 @@ For more information, please review our privacy policy at https://github.com/pri
 
 Help/Customer Support 
 Text the word HELP for support. You may also contact us directly at office@servpro11245.com or 931-723-8088.
-z
+By providing your mobile number to SERVPRO of Coffee, Franklin, Warren, you agree to receive conversational messages from SERVPRO of Coffee, Franklin, Warren.
+
+Message purpose:Conversational messages related to your inquiries, appointments, services, or account.
+  Message frequency:Message frequency may vary. On average, 1-2 messages per month.
+  Opt-out: You can reply STOP at any time to stop receiving messages.
+  Help:You can reply HELP for assistance.
+  Message and data rates:Message and data rates may apply.
+  Privacy policy: https://github.com/pridner/messaging-privacy-policy/blob/main/README.md
+
+
+Consent to receive conversational messages is not a condition of purchase or service.
 Liability 
 We are not responsible for any charges, errors, or delays in SMS delivery or undelivered messages caused by your carrier or third-party service providers. 
