@@ -21,8 +21,8 @@ Message and Data Rates
 Message and data rates may apply based on your mobile carrier’s terms. 
 
 Privacy Policy 
-Your information will be handled in accordance with our Privacy Policy https://github.com/pridner/messaging-privacy-policy/blob/main/README.md. 
-
+By opting in to receive SMS messages from PMM Restoration, LLC, you agree to receiveconversational messages<.Message frequency: Message frequency may vary. On average, 1-2 messages per month.
+  Privacy Policy: https://github.com/pridner/messaging-privacy-policy/blob/main/README.md
 Cancellation/Opt-Out Instructions 
 You can opt out of receiving SMS messages at any time by replying STOP to any message we send you. After you opt out of text messaging, you will receive one additional message confirming your request has been processed.  
 
